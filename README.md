@@ -12,7 +12,11 @@ The ESP32-S3-BOX version that I also have showed to be far more stable. Because 
 
 **UPDATE Version 3**
 
-This the latest version. It is nearly the same as version 2 but this one makes it possible to have a continues conversation.
+This is nearly the same as version 2 but this one makes it possible to have a continues conversation.
+
+**UPDATE Version 4**
+
+Latest versin which make use of the esp-idf framework.
 
 **Hardware needed**
 - CPU: ESP32-S3 N16R8
