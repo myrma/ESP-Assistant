@@ -16,7 +16,7 @@ This is nearly the same as version 2 but this one makes it possible to have a co
 
 **UPDATE Version 4**
 
-Latest versin which make use of the esp-idf framework.
+Latest version which make use of the esp-idf framework.
 
 **Hardware needed**
 - CPU: ESP32-S3 N16R8
